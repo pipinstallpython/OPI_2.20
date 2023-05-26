@@ -1,0 +1,68 @@
+┌─────────────────────┬─────────────┬───────────┐
+│        name         │ nationality │ max_price │
+├─────────────────────┼─────────────┼───────────┤
+│ Marco Reus          │ Germany     │ 50.0      │
+│ Marco Reus          │ Germany     │ 50.0      │
+│ Florian Wirtz       │ Germany     │ 85.0      │
+│ Florian Wirtz       │ Germany     │ 85.0      │
+│ Joshua Kimmich      │ Germany     │ 90.0      │
+│ Joshua Kimmich      │ Germany     │ 90.0      │
+│ Grischa Prömel      │ Germany     │ 7.5       │
+│ Timo Hübers         │ Germany     │ 7.5       │
+│ Jan Thielmann       │ Germany     │ 9.0       │
+│ Grischa Prömel      │ Germany     │ 7.5       │
+│ Timo Hübers         │ Germany     │ 7.5       │
+│ Jan Thielmann       │ Germany     │ 9.0       │
+│ Leon Goretzka       │ Germany     │ 70.0      │
+│ Leon Goretzka       │ Germany     │ 70.0      │
+│ Mats Hummels        │ Germany     │ 60.0      │
+│ Luca Netz           │ Germany     │ 6.5       │
+│ Eric Martel         │ Germany     │ 6.5       │
+│ Marvin Ducksch      │ Germany     │ 6.5       │
+│ Mats Hummels        │ Germany     │ 60.0      │
+│ Luca Netz           │ Germany     │ 6.5       │
+│ Eric Martel         │ Germany     │ 6.5       │
+│ Marvin Ducksch      │ Germany     │ 6.5       │
+│ Angelo Stiller      │ Germany     │ 7.0       │
+│ Amos Pieper         │ Germany     │ 7.0       │
+│ Tom Krauß           │ Germany     │ 6.0       │
+│ Angelo Stiller      │ Germany     │ 7.0       │
+│ Amos Pieper         │ Germany     │ 7.0       │
+│ Tom Krauß           │ Germany     │ 6.0       │
+│ Paul Jaeckel        │ Germany     │ 7.5       │
+│ Paul Jaeckel        │ Germany     │ 7.5       │
+│ Lucas Höler         │ Germany     │ 6.5       │
+│ Lucas Höler         │ Germany     │ 6.5       │
+│ Julian Brandt       │ Germany     │ 50.0      │
+│ Julian Brandt       │ Germany     │ 50.0      │
+│ Marc Oliver Kempf   │ Germany     │ 8.0       │
+│ Marc Oliver Kempf   │ Germany     │ 8.0       │
+│ Dominik Kohr        │ Germany     │ 8.5       │
+│ Dominik Kohr        │ Germany     │ 8.5       │
+│ Niklas Süle         │ Germany     │ 60.0      │
+│ Niklas Süle         │ Germany     │ 60.0      │
+│ Keven Schlotterbeck │ Germany     │ 7.5       │
+│ Keven Schlotterbeck │ Germany     │ 7.5       │
+│ Timo Werner         │ Germany     │ 80.0      │
+│ Timo Werner         │ Germany     │ 80.0      │
+│ Stefan Bell         │ Germany     │ 6.0       │
+│ Stefan Bell         │ Germany     │ 6.0       │
+│ André Hahn          │ Germany     │ 8.0       │
+│ André Hahn          │ Germany     │ 8.0       │
+│ Thomas Müller       │ Germany     │ 75.0      │
+│ Thomas Müller       │ Germany     │ 75.0      │
+│ Mario Götze         │ Germany     │ 55.0      │
+│ Mario Götze         │ Germany     │ 55.0      │
+│ Levin Öztunali      │ Germany     │ 6.5       │
+│ Pascal Stenzel      │ Germany     │ 6.5       │
+│ Levin Öztunali      │ Germany     │ 6.5       │
+│ Pascal Stenzel      │ Germany     │ 6.5       │
+│ Sven Ulreich        │ Germany     │ 6.0       │
+│ Alexander Schwolow  │ Germany     │ 9.0       │
+│ Sven Ulreich        │ Germany     │ 6.0       │
+│ Alexander Schwolow  │ Germany     │ 9.0       │
+│ Tony Jantschke      │ Germany     │ 9.0       │
+│ Tony Jantschke      │ Germany     │ 9.0       │
+│ Tobias Strobl       │ Germany     │ 8.0       │
+│ Tobias Strobl       │ Germany     │ 8.0       │
+└─────────────────────┴─────────────┴───────────┘

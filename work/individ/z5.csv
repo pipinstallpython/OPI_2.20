@@ -1,0 +1,33 @@
+┌─────────────────┬────────────────────────┐
+│      club       │ Максимальная стоимость │
+├─────────────────┼────────────────────────┤
+│ club            │ max_price              │
+│ Bayern Munich   │ 90.0                   │
+│ Union Berlin    │ 9.0                    │
+│ Hertha BSC      │ 9.0                    │
+│ FC Schalke 04   │ 9.0                    │
+│ FC Augsburg     │ 9.0                    │
+│ E. Frankfurt    │ 9.0                    │
+│ Bor. M'gladbach │ 9.0                    │
+│ B. Leverkusen   │ 9.0                    │
+│ 1.FSV Mainz 05  │ 9.0                    │
+│ 1.FC Köln       │ 9.0                    │
+│ RB Leipzig      │ 80.0                   │
+│ VfL Wolfsburg   │ 8.0                    │
+│ SC Freiburg     │ 8.0                    │
+│ Werder Bremen   │ 7.5                    │
+│ VfL Bochum      │ 7.5                    │
+│ VfB Stuttgart   │ 7.5                    │
+│ TSG Hoffenheim  │ 7.5                    │
+│ Bor. Dortmund   │ 7.0                    │
+│ B. Dortmund II  │ 1.0                    │
+│ Hertha BSC II   │ 0.75                   │
+│ W. Bremen U19   │ 0.3                    │
+│ Hertha BSC U19  │ 0.25                   │
+│ RB Leipzig U19  │ 0.2                    │
+│ RB Leipzig U17  │ 0.2                    │
+│ 1.FC Köln II    │ 0.2                    │
+│ W. Bremen II    │ 0.15                   │
+│ FC Augsburg U19 │                        │
+│ 1.FC Köln U19   │                        │
+└─────────────────┴────────────────────────┘
